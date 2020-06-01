@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="183" style="">
+<rect id="backgroundrect" width="100%" height="100%" x="0" y="0" fill="none" stroke="none" class="" style=""/>
+<g class="currentLayer" style=""><title>albero</title><g stroke="null" id="alberoDiNatale" class="selected">
+  <g stroke="null" id="albero">
+   <rect stroke="#000" id="svg_4" height="37.058326721191406" width="14.91891860961914" y="146.0966847538948" x="108.9899435043335" stroke-opacity="null" stroke-width="1.5" fill="#4C261D"/>
+   <path stroke="#000" id="svg_3" d="m28.281074654724108,155.13065510448075 l91.999998,-71.800521 l92.000011,71.800521 l-184.000009,0 z" stroke-width="1.5" fill="#19781D"/>
+   <path stroke="#000" id="svg_2" d="m47.17837465472411,115.75618510448075 l73.599994,-63.694015 l73.600011,63.694015 l-147.200005,0 z" stroke-width="1.5" fill="#17A61D"/>
+   <path stroke="#000" id="svg_1" d="m78.01080265472413,71.74942010448075 l42.270273,-49.797134 l42.270273,49.797134 l-84.540546,0 z" stroke-width="1.5" fill="#14D11C"/>
+   <path stroke="#000" id="svg_6" d="m105.71523865472415,11.943331104480748 l11.017227,0 l3.404408,-11.943331 l3.40441,11.943331 l11.017225,0 l-8.913107,7.3813 l3.404584,11.943331 l-8.913111,-7.381501 l-8.913109,7.381501 l3.404585,-11.943331 l-8.91311,-7.3813 z" stroke-opacity="null" stroke-width="1.5" fill="#FFFF91"/>
+  </g>
+  <g stroke="null" id="palle">
+   <ellipse ry="7.5" rx="7" id="palla1" cy="66.65501910448074" cx="81.42857265472412" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="red"/>
+   <ellipse ry="7.5" rx="7" id="palla2" cy="66.70189410448074" cx="158.42857265472412" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="yellow"/>
+   <ellipse ry="7.5" rx="7" id="palla3" cy="113.65501910448074" cx="46.42857265472412" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#00ccff"/>
+   <ellipse ry="7.5" rx="7" id="palla4" cy="113.65501910448074" cx="192.42857265472412" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="purple"/>
+   <ellipse ry="7.5" rx="7" id="palla5" cy="153.65501910448074" cx="28.42857265472412" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="white"/>
+   <ellipse ry="7.5" rx="7" id="palla6" cy="153.65501910448074" cx="209.42857265472412" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="orange"/>
+  </g>
+ </g></g></svg>

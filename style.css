@@ -1,0 +1,13 @@
+body, html {
+	height: 100%;
+	width: 100%;
+}
+
+.albero{
+	height:300;
+	width:250;
+	margin-left:auto;
+	margin-right:auto;
+	float: left;
+	display: inline;
+}
